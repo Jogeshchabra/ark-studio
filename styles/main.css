@@ -295,7 +295,7 @@ footer {
   margin: 100px 0;
 }
 
-.widget {
+.footer_widget {
   display: flex;
   justify-content: space-between;
   overflow: hidden;
