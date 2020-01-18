@@ -289,6 +289,84 @@ footer {
   color: #ffffff;
 }
 
+.cols ul.icons{
+
+
+
+    overflow: hidden;
+
+}
+
+.cols ul.icons li{
+
+    float: left;
+
+    margin-left: 10px;
+
+}
+
+.cols ul.icons li:first-child{
+
+    margin-left: 0;
+
+}
+
+.cols ul.icons li a{
+
+    display: block;
+
+    width: 25px;
+
+    height: 25px;
+
+    background: url('../img/social.png') no-repeat;
+
+}
+
+.cols ul.icons li a.fb{
+
+    background-position: 0 0;
+
+}
+
+.cols ul.icons li a.twitter{
+
+    background-position: -26px 0;
+
+}
+
+.cols ul.icons li a.dribbble{
+
+    background-position: -52px 0;
+
+}
+
+.cols ul.icons li a:hover{
+
+    background: url('../img/social_hover.png') no-repeat;
+
+}
+
+.cols ul.icons li a.fb:hover{
+
+    background-position: 0 0;
+
+}
+
+.cols ul.icons li a.twitter:hover{
+
+    background-position: -26px 0;
+
+}
+
+.cols ul.icons li a.dribbble:hover{
+
+    background-position: -52px 0;
+
+}
+
+
+
 .cols {
   width: 270px;
   height: auto;
