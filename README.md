@@ -1,4 +1,4 @@
-Live at https://jogeshchabra.github.io/zomato-replica/
+Live at https://jogeshchabra.github.io/ark-studio/
 
 ![Template.png](img/template.png)
 
